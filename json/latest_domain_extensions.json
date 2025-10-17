@@ -1,0 +1,1578 @@
+{
+    ".ac": {
+        "price": 4500,
+        "renewal": 4500
+    },
+    ".academy": {
+        "price": 3620,
+        "renewal": 3620
+    },
+    ".accountant": {
+        "price": 2018,
+        "renewal": 2018
+    },
+    ".accountants": {
+        "price": 9020,
+        "renewal": 9020
+    },
+    ".actor": {
+        "price": 3420,
+        "renewal": 3420
+    },
+    ".adult": {
+        "price": 8520,
+        "renewal": 8520
+    },
+    ".agency": {
+        "price": 2420,
+        "renewal": 2420
+    },
+    ".ai": {
+        "price": 7000,
+        "renewal": 7000
+    },
+    ".airforce": {
+        "price": 8020,
+        "renewal": 8020
+    },
+    ".apartments": {
+        "price": 4420,
+        "renewal": 4420
+    },
+    ".app": {
+        "price": 1420,
+        "renewal": 1420
+    },
+    ".army": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".associates": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".attorney": {
+        "price": 4820,
+        "renewal": 4820
+    },
+    ".auction": {
+        "price": 2820,
+        "renewal": 2820
+    },
+    ".audio": {
+        "price": 10020,
+        "renewal": 10020
+    },
+    ".baby": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".band": {
+        "price": 2420,
+        "renewal": 2420
+    },
+    ".bar": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".bargains": {
+        "price": 2320,
+        "renewal": 2320
+    },
+    ".beer": {
+        "price": 2220,
+        "renewal": 2220
+    },
+    ".bet": {
+        "price": 2020,
+        "renewal": 2020
+    },
+    ".bid": {
+        "price": 418,
+        "renewal": 518
+    },
+    ".bike": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".bingo": {
+        "price": 4120,
+        "renewal": 4120
+    },
+    ".biz": {
+        "price": 1520,
+        "renewal": 1520
+    },
+    ".black": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".blog": {
+        "price": 2020,
+        "renewal": 2020
+    },
+    ".blue": {
+        "price": 1920,
+        "renewal": 1920
+    },
+    ".boo": {
+        "price": 1020,
+        "renewal": 1020
+    },
+    ".boston": {
+        "price": 1520,
+        "renewal": 1520
+    },
+    ".boutique": {
+        "price": 2520,
+        "renewal": 2520
+    },
+    ".broker": {
+        "price": 2820,
+        "renewal": 2820
+    },
+    ".build": {
+        "price": 2520,
+        "renewal": 2520
+    },
+    ".builders": {
+        "price": 2720,
+        "renewal": 2720
+    },
+    ".business": {
+        "price": 1520,
+        "renewal": 1520
+    },
+    ".cab": {
+        "price": 2520,
+        "renewal": 2520
+    },
+    ".cafe": {
+        "price": 4020,
+        "renewal": 4020
+    },
+    ".cam": {
+        "price": 1420,
+        "renewal": 1420
+    },
+    ".camera": {
+        "price": 4520,
+        "renewal": 4520
+    },
+    ".camp": {
+        "price": 4820,
+        "renewal": 4820
+    },
+    ".capital": {
+        "price": 5520,
+        "renewal": 5520
+    },
+    ".cards": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".care": {
+        "price": 3420,
+        "renewal": 3420
+    },
+    ".careers": {
+        "price": 5520,
+        "renewal": 5520
+    },
+    ".casa": {
+        "price": 770,
+        "renewal": 770
+    },
+    ".cash": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".casino": {
+        "price": 12520,
+        "renewal": 12520
+    },
+    ".catering": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".cc": {
+        "price": 800,
+        "renewal": 800
+    },
+    ".center": {
+        "price": 2520,
+        "renewal": 2520
+    },
+    ".ceo": {
+        "price": 8520,
+        "renewal": 7020
+    },
+    ".chat": {
+        "price": 3520,
+        "renewal": 3520
+    },
+    ".cheap": {
+        "price": 2820,
+        "renewal": 2820
+    },
+    ".christmas": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".church": {
+        "price": 4520,
+        "renewal": 4520
+    },
+    ".city": {
+        "price": 2220,
+        "renewal": 2220
+    },
+    ".claims": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".cleaning": {
+        "price": 5820,
+        "renewal": 5820
+    },
+    ".clinic": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".clothing": {
+        "price": 2520,
+        "renewal": 2520
+    },
+    ".cloud": {
+        "price": 2020,
+        "renewal": 2020
+    },
+    ".club": {
+        "price": 1220,
+        "renewal": 1220
+    },
+    ".co": {
+        "price": 2600,
+        "renewal": 2600
+    },
+    ".co.uk": {
+        "price": 521,
+        "renewal": 521
+    },
+    ".coach": {
+        "price": 6020,
+        "renewal": 6020
+    },
+    ".codes": {
+        "price": 5520,
+        "renewal": 5520
+    },
+    ".coffee": {
+        "price": 3320,
+        "renewal": 3320
+    },
+    ".college": {
+        "price": 4520,
+        "renewal": 4520
+    },
+    ".com": {
+        "price": 1046,
+        "renewal": 1046
+    },
+    ".com.ai": {
+        "price": 7000,
+        "renewal": 7000
+    },
+    ".com.co": {
+        "price": 1000,
+        "renewal": 1000
+    },
+    ".community": {
+        "price": 3520,
+        "renewal": 3520
+    },
+    ".company": {
+        "price": 1620,
+        "renewal": 1620
+    },
+    ".compare": {
+        "price": 2220,
+        "renewal": 2220
+    },
+    ".computer": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".condos": {
+        "price": 4520,
+        "renewal": 4520
+    },
+    ".construction": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".consulting": {
+        "price": 4220,
+        "renewal": 4220
+    },
+    ".contact": {
+        "price": 1120,
+        "renewal": 1120
+    },
+    ".contractors": {
+        "price": 2720,
+        "renewal": 2720
+    },
+    ".cooking": {
+        "price": 2220,
+        "renewal": 2220
+    },
+    ".cool": {
+        "price": 3520,
+        "renewal": 3520
+    },
+    ".coupons": {
+        "price": 4220,
+        "renewal": 4220
+    },
+    ".credit": {
+        "price": 8020,
+        "renewal": 8020
+    },
+    ".creditcard": {
+        "price": 12520,
+        "renewal": 12520
+    },
+    ".cricket": {
+        "price": 2018,
+        "renewal": 2018
+    },
+    ".cruises": {
+        "price": 4320,
+        "renewal": 4320
+    },
+    ".dad": {
+        "price": 1020,
+        "renewal": 1020
+    },
+    ".dance": {
+        "price": 2120,
+        "renewal": 2120
+    },
+    ".date": {
+        "price": 418,
+        "renewal": 518
+    },
+    ".dating": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".day": {
+        "price": 1020,
+        "renewal": 1020
+    },
+    ".dealer": {
+        "price": 200020,
+        "renewal": 200020
+    },
+    ".deals": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".degree": {
+        "price": 4020,
+        "renewal": 4020
+    },
+    ".delivery": {
+        "price": 4820,
+        "renewal": 4820
+    },
+    ".democrat": {
+        "price": 2520,
+        "renewal": 2520
+    },
+    ".dental": {
+        "price": 6020,
+        "renewal": 6020
+    },
+    ".dentist": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".design": {
+        "price": 4020,
+        "renewal": 4020
+    },
+    ".dev": {
+        "price": 1220,
+        "renewal": 1220
+    },
+    ".diamonds": {
+        "price": 4220,
+        "renewal": 4220
+    },
+    ".digital": {
+        "price": 3220,
+        "renewal": 3220
+    },
+    ".direct": {
+        "price": 3220,
+        "renewal": 3220
+    },
+    ".directory": {
+        "price": 2120,
+        "renewal": 2120
+    },
+    ".discount": {
+        "price": 2320,
+        "renewal": 2320
+    },
+    ".doctor": {
+        "price": 9020,
+        "renewal": 9020
+    },
+    ".dog": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".domains": {
+        "price": 3320,
+        "renewal": 3320
+    },
+    ".download": {
+        "price": 418,
+        "renewal": 518
+    },
+    ".education": {
+        "price": 2720,
+        "renewal": 2720
+    },
+    ".email": {
+        "price": 2420,
+        "renewal": 2420
+    },
+    ".energy": {
+        "price": 9020,
+        "renewal": 9020
+    },
+    ".engineer": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".engineering": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".enterprises": {
+        "price": 2720,
+        "renewal": 2720
+    },
+    ".equipment": {
+        "price": 2220,
+        "renewal": 2220
+    },
+    ".esq": {
+        "price": 2020,
+        "renewal": 2020
+    },
+    ".estate": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".events": {
+        "price": 3520,
+        "renewal": 3520
+    },
+    ".exchange": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".expert": {
+        "price": 4820,
+        "renewal": 4820
+    },
+    ".exposed": {
+        "price": 1720,
+        "renewal": 1720
+    },
+    ".express": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".fail": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".faith": {
+        "price": 1018,
+        "renewal": 1018
+    },
+    ".family": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".fan": {
+        "price": 4220,
+        "renewal": 4220
+    },
+    ".fans": {
+        "price": 820,
+        "renewal": 820
+    },
+    ".farm": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".fashion": {
+        "price": 2220,
+        "renewal": 2220
+    },
+    ".feedback": {
+        "price": 30020,
+        "renewal": 30020
+    },
+    ".finance": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".financial": {
+        "price": 4520,
+        "renewal": 4520
+    },
+    ".fish": {
+        "price": 3420,
+        "renewal": 3420
+    },
+    ".fishing": {
+        "price": 2220,
+        "renewal": 2220
+    },
+    ".fit": {
+        "price": 2220,
+        "renewal": 2220
+    },
+    ".fitness": {
+        "price": 3220,
+        "renewal": 3220
+    },
+    ".flights": {
+        "price": 4520,
+        "renewal": 4520
+    },
+    ".florist": {
+        "price": 2520,
+        "renewal": 2520
+    },
+    ".flowers": {
+        "price": 10000,
+        "renewal": 10000
+    },
+    ".fm": {
+        "price": 8500,
+        "renewal": 8500
+    },
+    ".foo": {
+        "price": 1020,
+        "renewal": 1020
+    },
+    ".football": {
+        "price": 2020,
+        "renewal": 2020
+    },
+    ".forex": {
+        "price": 8020,
+        "renewal": 8020
+    },
+    ".forsale": {
+        "price": 2820,
+        "renewal": 2820
+    },
+    ".forum": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".foundation": {
+        "price": 2170,
+        "renewal": 2170
+    },
+    ".fun": {
+        "price": 2520,
+        "renewal": 2520
+    },
+    ".fund": {
+        "price": 5520,
+        "renewal": 5520
+    },
+    ".furniture": {
+        "price": 8020,
+        "renewal": 8020
+    },
+    ".futbol": {
+        "price": 1320,
+        "renewal": 1320
+    },
+    ".fyi": {
+        "price": 520,
+        "renewal": 520
+    },
+    ".gallery": {
+        "price": 2220,
+        "renewal": 2220
+    },
+    ".game": {
+        "price": 30020,
+        "renewal": 30020
+    },
+    ".games": {
+        "price": 2620,
+        "renewal": 2620
+    },
+    ".garden": {
+        "price": 2220,
+        "renewal": 2220
+    },
+    ".gifts": {
+        "price": 2820,
+        "renewal": 2820
+    },
+    ".gives": {
+        "price": 2170,
+        "renewal": 2170
+    },
+    ".glass": {
+        "price": 5620,
+        "renewal": 5620
+    },
+    ".global": {
+        "price": 7520,
+        "renewal": 7520
+    },
+    ".gmbh": {
+        "price": 3520,
+        "renewal": 3520
+    },
+    ".gold": {
+        "price": 8020,
+        "renewal": 8020
+    },
+    ".golf": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".graphics": {
+        "price": 1820,
+        "renewal": 1820
+    },
+    ".gratis": {
+        "price": 1820,
+        "renewal": 1820
+    },
+    ".green": {
+        "price": 6220,
+        "renewal": 6220
+    },
+    ".gripe": {
+        "price": 520,
+        "renewal": 520
+    },
+    ".group": {
+        "price": 2020,
+        "renewal": 2020
+    },
+    ".guide": {
+        "price": 3220,
+        "renewal": 3220
+    },
+    ".guitars": {
+        "price": 10020,
+        "renewal": 10020
+    },
+    ".guru": {
+        "price": 3320,
+        "renewal": 3320
+    },
+    ".haus": {
+        "price": 2620,
+        "renewal": 2620
+    },
+    ".health": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".healthcare": {
+        "price": 6820,
+        "renewal": 6820
+    },
+    ".help": {
+        "price": 2220,
+        "renewal": 2220
+    },
+    ".hockey": {
+        "price": 4620,
+        "renewal": 4620
+    },
+    ".holdings": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".holiday": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".horse": {
+        "price": 2220,
+        "renewal": 2220
+    },
+    ".hospital": {
+        "price": 4420,
+        "renewal": 4420
+    },
+    ".host": {
+        "price": 7520,
+        "renewal": 7520
+    },
+    ".hosting": {
+        "price": 30020,
+        "renewal": 30020
+    },
+    ".house": {
+        "price": 3420,
+        "renewal": 3420
+    },
+    ".how": {
+        "price": 2020,
+        "renewal": 2020
+    },
+    ".icu": {
+        "price": 1220,
+        "renewal": 1220
+    },
+    ".immo": {
+        "price": 2720,
+        "renewal": 2720
+    },
+    ".immobilien": {
+        "price": 2920,
+        "renewal": 2920
+    },
+    ".inc": {
+        "price": 200020,
+        "renewal": 200020
+    },
+    ".industries": {
+        "price": 3520,
+        "renewal": 3520
+    },
+    ".info": {
+        "price": 1920,
+        "renewal": 1920
+    },
+    ".ink": {
+        "price": 1920,
+        "renewal": 1920
+    },
+    ".international": {
+        "price": 2420,
+        "renewal": 2420
+    },
+    ".investments": {
+        "price": 10020,
+        "renewal": 10020
+    },
+    ".io": {
+        "price": 4500,
+        "renewal": 4500
+    },
+    ".irish": {
+        "price": 1720,
+        "renewal": 1720
+    },
+    ".jetzt": {
+        "price": 1820,
+        "renewal": 1820
+    },
+    ".jewelry": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".kaufen": {
+        "price": 2320,
+        "renewal": 2320
+    },
+    ".kim": {
+        "price": 1820,
+        "renewal": 1820
+    },
+    ".kitchen": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".land": {
+        "price": 3220,
+        "renewal": 3220
+    },
+    ".lawyer": {
+        "price": 4820,
+        "renewal": 4820
+    },
+    ".lease": {
+        "price": 4320,
+        "renewal": 4320
+    },
+    ".legal": {
+        "price": 5520,
+        "renewal": 5520
+    },
+    ".lgbt": {
+        "price": 6220,
+        "renewal": 6220
+    },
+    ".life": {
+        "price": 2820,
+        "renewal": 2820
+    },
+    ".lighting": {
+        "price": 1820,
+        "renewal": 1820
+    },
+    ".limited": {
+        "price": 2820,
+        "renewal": 2820
+    },
+    ".limo": {
+        "price": 4220,
+        "renewal": 4220
+    },
+    ".link": {
+        "price": 720,
+        "renewal": 720
+    },
+    ".live": {
+        "price": 2520,
+        "renewal": 2520
+    },
+    ".loan": {
+        "price": 418,
+        "renewal": 518
+    },
+    ".loans": {
+        "price": 9020,
+        "renewal": 9020
+    },
+    ".lol": {
+        "price": 2520,
+        "renewal": 2020
+    },
+    ".love": {
+        "price": 2020,
+        "renewal": 2020
+    },
+    ".ltd": {
+        "price": 2420,
+        "renewal": 2420
+    },
+    ".luxe": {
+        "price": 1520,
+        "renewal": 1520
+    },
+    ".maison": {
+        "price": 4420,
+        "renewal": 4420
+    },
+    ".management": {
+        "price": 2020,
+        "renewal": 2020
+    },
+    ".market": {
+        "price": 3420,
+        "renewal": 3420
+    },
+    ".marketing": {
+        "price": 3220,
+        "renewal": 3220
+    },
+    ".markets": {
+        "price": 1520,
+        "renewal": 1520
+    },
+    ".mba": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".me": {
+        "price": 1579,
+        "renewal": 1579
+    },
+    ".me.uk": {
+        "price": 521,
+        "renewal": 521
+    },
+    ".media": {
+        "price": 3520,
+        "renewal": 3520
+    },
+    ".memorial": {
+        "price": 4020,
+        "renewal": 4020
+    },
+    ".men": {
+        "price": 418,
+        "renewal": 518
+    },
+    ".miami": {
+        "price": 1520,
+        "renewal": 1520
+    },
+    ".mobi": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".moda": {
+        "price": 3220,
+        "renewal": 3220
+    },
+    ".mom": {
+        "price": 2520,
+        "renewal": 2520
+    },
+    ".money": {
+        "price": 2720,
+        "renewal": 2720
+    },
+    ".monster": {
+        "price": 1230,
+        "renewal": 1020
+    },
+    ".mortgage": {
+        "price": 4820,
+        "renewal": 4820
+    },
+    ".mov": {
+        "price": 1020,
+        "renewal": 1020
+    },
+    ".movie": {
+        "price": 27020,
+        "renewal": 27020
+    },
+    ".navy": {
+        "price": 3220,
+        "renewal": 3220
+    },
+    ".net": {
+        "price": 1186,
+        "renewal": 1186
+    },
+    ".net.ai": {
+        "price": 7000,
+        "renewal": 7000
+    },
+    ".net.co": {
+        "price": 1000,
+        "renewal": 1000
+    },
+    ".network": {
+        "price": 2720,
+        "renewal": 2720
+    },
+    ".new": {
+        "price": 40020,
+        "renewal": 40020
+    },
+    ".news": {
+        "price": 2520,
+        "renewal": 2520
+    },
+    ".nexus": {
+        "price": 1020,
+        "renewal": 1020
+    },
+    ".ngo": {
+        "price": 1520,
+        "renewal": 1520
+    },
+    ".ninja": {
+        "price": 2420,
+        "renewal": 2420
+    },
+    ".nom.co": {
+        "price": 1000,
+        "renewal": 1000
+    },
+    ".observer": {
+        "price": 920,
+        "renewal": 920
+    },
+    ".off.ai": {
+        "price": 7000,
+        "renewal": 7000
+    },
+    ".ong": {
+        "price": 1520,
+        "renewal": 1520
+    },
+    ".online": {
+        "price": 2520,
+        "renewal": 2520
+    },
+    ".org": {
+        "price": 750,
+        "renewal": 1013
+    },
+    ".org.ai": {
+        "price": 7000,
+        "renewal": 7000
+    },
+    ".org.uk": {
+        "price": 521,
+        "renewal": 521
+    },
+    ".organic": {
+        "price": 6620,
+        "renewal": 6620
+    },
+    ".page": {
+        "price": 1020,
+        "renewal": 1020
+    },
+    ".partners": {
+        "price": 5520,
+        "renewal": 5520
+    },
+    ".parts": {
+        "price": 3220,
+        "renewal": 3220
+    },
+    ".party": {
+        "price": 418,
+        "renewal": 518
+    },
+    ".pet": {
+        "price": 2020,
+        "renewal": 2020
+    },
+    ".phd": {
+        "price": 2020,
+        "renewal": 2020
+    },
+    ".photography": {
+        "price": 2820,
+        "renewal": 2820
+    },
+    ".photos": {
+        "price": 2320,
+        "renewal": 2320
+    },
+    ".pics": {
+        "price": 2520,
+        "renewal": 2020
+    },
+    ".pictures": {
+        "price": 1220,
+        "renewal": 1220
+    },
+    ".pink": {
+        "price": 2020,
+        "renewal": 2020
+    },
+    ".pizza": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".place": {
+        "price": 1720,
+        "renewal": 1720
+    },
+    ".plumbing": {
+        "price": 5620,
+        "renewal": 5620
+    },
+    ".plus": {
+        "price": 4220,
+        "renewal": 4220
+    },
+    ".porn": {
+        "price": 8520,
+        "renewal": 8520
+    },
+    ".press": {
+        "price": 5920,
+        "renewal": 5920
+    },
+    ".pro": {
+        "price": 1920,
+        "renewal": 1920
+    },
+    ".productions": {
+        "price": 3120,
+        "renewal": 3120
+    },
+    ".prof": {
+        "price": 2020,
+        "renewal": 2020
+    },
+    ".promo": {
+        "price": 1920,
+        "renewal": 1920
+    },
+    ".protection": {
+        "price": 200020,
+        "renewal": 200020
+    },
+    ".pub": {
+        "price": 3120,
+        "renewal": 3120
+    },
+    ".racing": {
+        "price": 1018,
+        "renewal": 1018
+    },
+    ".realty": {
+        "price": 28020,
+        "renewal": 28020
+    },
+    ".recipes": {
+        "price": 6020,
+        "renewal": 6020
+    },
+    ".red": {
+        "price": 1820,
+        "renewal": 1820
+    },
+    ".rehab": {
+        "price": 2820,
+        "renewal": 2820
+    },
+    ".reise": {
+        "price": 7520,
+        "renewal": 7520
+    },
+    ".reisen": {
+        "price": 1620,
+        "renewal": 1620
+    },
+    ".rent": {
+        "price": 4520,
+        "renewal": 4520
+    },
+    ".rentals": {
+        "price": 3420,
+        "renewal": 3420
+    },
+    ".repair": {
+        "price": 2820,
+        "renewal": 2820
+    },
+    ".report": {
+        "price": 1920,
+        "renewal": 1920
+    },
+    ".republican": {
+        "price": 2520,
+        "renewal": 2520
+    },
+    ".rest": {
+        "price": 2520,
+        "renewal": 2520
+    },
+    ".restaurant": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".review": {
+        "price": 1018,
+        "renewal": 1018
+    },
+    ".reviews": {
+        "price": 4820,
+        "renewal": 4820
+    },
+    ".rip": {
+        "price": 1820,
+        "renewal": 1820
+    },
+    ".rocks": {
+        "price": 1720,
+        "renewal": 1720
+    },
+    ".rodeo": {
+        "price": 720,
+        "renewal": 720
+    },
+    ".rsvp": {
+        "price": 1020,
+        "renewal": 1020
+    },
+    ".run": {
+        "price": 2120,
+        "renewal": 2120
+    },
+    ".sale": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".salon": {
+        "price": 4420,
+        "renewal": 4420
+    },
+    ".sarl": {
+        "price": 520,
+        "renewal": 520
+    },
+    ".school": {
+        "price": 2820,
+        "renewal": 2820
+    },
+    ".schule": {
+        "price": 2220,
+        "renewal": 2220
+    },
+    ".science": {
+        "price": 1018,
+        "renewal": 1018
+    },
+    ".security": {
+        "price": 200020,
+        "renewal": 200020
+    },
+    ".select": {
+        "price": 2220,
+        "renewal": 2220
+    },
+    ".services": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".sex": {
+        "price": 8520,
+        "renewal": 8520
+    },
+    ".sh": {
+        "price": 4500,
+        "renewal": 4500
+    },
+    ".shoes": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".shop": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".shopping": {
+        "price": 2320,
+        "renewal": 2320
+    },
+    ".show": {
+        "price": 3420,
+        "renewal": 3420
+    },
+    ".singles": {
+        "price": 2620,
+        "renewal": 2620
+    },
+    ".site": {
+        "price": 2520,
+        "renewal": 2520
+    },
+    ".ski": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".soccer": {
+        "price": 2020,
+        "renewal": 2020
+    },
+    ".social": {
+        "price": 3220,
+        "renewal": 3220
+    },
+    ".software": {
+        "price": 3220,
+        "renewal": 3220
+    },
+    ".solar": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".solutions": {
+        "price": 2420,
+        "renewal": 2420
+    },
+    ".soy": {
+        "price": 1820,
+        "renewal": 1820
+    },
+    ".space": {
+        "price": 2020,
+        "renewal": 2020
+    },
+    ".storage": {
+        "price": 50020,
+        "renewal": 50020
+    },
+    ".store": {
+        "price": 4020,
+        "renewal": 4020
+    },
+    ".stream": {
+        "price": 418,
+        "renewal": 518
+    },
+    ".studio": {
+        "price": 3120,
+        "renewal": 3120
+    },
+    ".style": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".supplies": {
+        "price": 1920,
+        "renewal": 1920
+    },
+    ".supply": {
+        "price": 2020,
+        "renewal": 2020
+    },
+    ".support": {
+        "price": 2120,
+        "renewal": 2120
+    },
+    ".surf": {
+        "price": 2220,
+        "renewal": 2220
+    },
+    ".surgery": {
+        "price": 4220,
+        "renewal": 4220
+    },
+    ".systems": {
+        "price": 2720,
+        "renewal": 2720
+    },
+    ".tax": {
+        "price": 5220,
+        "renewal": 5220
+    },
+    ".taxi": {
+        "price": 4820,
+        "renewal": 4820
+    },
+    ".team": {
+        "price": 2820,
+        "renewal": 2820
+    },
+    ".tech": {
+        "price": 4520,
+        "renewal": 4520
+    },
+    ".technology": {
+        "price": 2220,
+        "renewal": 2220
+    },
+    ".tennis": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".theater": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".theatre": {
+        "price": 50020,
+        "renewal": 50020
+    },
+    ".tienda": {
+        "price": 4620,
+        "renewal": 4620
+    },
+    ".tips": {
+        "price": 2420,
+        "renewal": 2420
+    },
+    ".tires": {
+        "price": 7020,
+        "renewal": 7020
+    },
+    ".today": {
+        "price": 2220,
+        "renewal": 2220
+    },
+    ".tools": {
+        "price": 2820,
+        "renewal": 2820
+    },
+    ".tours": {
+        "price": 4820,
+        "renewal": 4820
+    },
+    ".town": {
+        "price": 2820,
+        "renewal": 2820
+    },
+    ".toys": {
+        "price": 5020,
+        "renewal": 5020
+    },
+    ".trade": {
+        "price": 418,
+        "renewal": 518
+    },
+    ".trading": {
+        "price": 1620,
+        "renewal": 1620
+    },
+    ".training": {
+        "price": 3220,
+        "renewal": 3220
+    },
+    ".travel": {
+        "price": 11520,
+        "renewal": 11520
+    },
+    ".tv": {
+        "price": 2500,
+        "renewal": 2500
+    },
+    ".uk": {
+        "price": 521,
+        "renewal": 521
+    },
+    ".university": {
+        "price": 4820,
+        "renewal": 4820
+    },
+    ".uno": {
+        "price": 1520,
+        "renewal": 1520
+    },
+    ".us": {
+        "price": 650,
+        "renewal": 650
+    },
+    ".vacations": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".ventures": {
+        "price": 4620,
+        "renewal": 4620
+    },
+    ".vet": {
+        "price": 3220,
+        "renewal": 3220
+    },
+    ".viajes": {
+        "price": 3520,
+        "renewal": 3520
+    },
+    ".video": {
+        "price": 2820,
+        "renewal": 2820
+    },
+    ".villas": {
+        "price": 4620,
+        "renewal": 4620
+    },
+    ".vin": {
+        "price": 4620,
+        "renewal": 4620
+    },
+    ".vip": {
+        "price": 1220,
+        "renewal": 1220
+    },
+    ".vision": {
+        "price": 3520,
+        "renewal": 3520
+    },
+    ".vodka": {
+        "price": 2220,
+        "renewal": 2220
+    },
+    ".voyage": {
+        "price": 4520,
+        "renewal": 4520
+    },
+    ".watch": {
+        "price": 3420,
+        "renewal": 3420
+    },
+    ".webcam": {
+        "price": 1018,
+        "renewal": 1018
+    },
+    ".website": {
+        "price": 2020,
+        "renewal": 2020
+    },
+    ".wedding": {
+        "price": 2220,
+        "renewal": 2220
+    },
+    ".wiki": {
+        "price": 1920,
+        "renewal": 1920
+    },
+    ".win": {
+        "price": 418,
+        "renewal": 518
+    },
+    ".wine": {
+        "price": 4620,
+        "renewal": 4620
+    },
+    ".work": {
+        "price": 720,
+        "renewal": 720
+    },
+    ".works": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".world": {
+        "price": 3220,
+        "renewal": 3220
+    },
+    ".wtf": {
+        "price": 2820,
+        "renewal": 2820
+    },
+    ".xxx": {
+        "price": 8520,
+        "renewal": 8520
+    },
+    ".xyz": {
+        "price": 1230,
+        "renewal": 1120
+    },
+    ".zone": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".diet": {
+        "price": 10020,
+        "renewal": 10020
+    },
+    ".institute": {
+        "price": 2120,
+        "renewal": 2120
+    },
+    ".insure": {
+        "price": 5620,
+        "renewal": 5620
+    },
+    ".net.uk": {
+        "price": 0,
+        "renewal": 0
+    },
+    ".properties": {
+        "price": 3020,
+        "renewal": 3020
+    },
+    ".yoga": {
+        "price": 2220,
+        "renewal": 2220
+    }
+}
