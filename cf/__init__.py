@@ -1,7 +1,7 @@
 from pathlib import Path
 
 CWD = Path.cwd()
-KNOWN_EXTENSIONS_FILE = CWD / "known_extensions.txt"
+KNOWN_EXTENSIONS_FILE = CWD / "extensions_known.txt"
 CSV_DIR = CWD / "csv"
 JSON_DIR = CWD / "json"
 

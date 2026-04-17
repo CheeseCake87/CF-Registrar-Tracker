@@ -1,5 +1,9 @@
 # Cloudflare Registrar Price Tracker (USD) 📋
 
+```bash
+uv run -m cf
+```
+
 ## Top 20 Most Expensive Domain Extensions
 
 Updated: 2026-04-17

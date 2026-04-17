@@ -2,3 +2,4 @@ temp.json
 .venv/
 venv/
 .idea/
+.tool.py

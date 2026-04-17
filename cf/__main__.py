@@ -25,13 +25,13 @@ def known_extensions():
         print(extension)
 
 
-@cli.command("find", help="Confirm that a domain extension is included in known_extensions.txt")
+@cli.command("find", help="Confirm that a domain extension is included in extensions_known.txt")
 @click.argument("extension", type=str, required=True)
 def find_extension(extension):
     if extension in get_known_extensions():
-        print(f"{Sp.OKGREEN}{extension} is included in known_extensions.txt{Sp.END}")
+        print(f"{Sp.OKGREEN}{extension} is included in extensions_known.txt{Sp.END}")
     else:
-        print(f"{Sp.FAIL}{extension} IS NOT included in known_extensions.txt{Sp.END}")
+        print(f"{Sp.FAIL}{extension} IS NOT included in extensions_known.txt{Sp.END}")
 
 
 @cli.command("cost", help="Show the cost of a known domain extension.")
@@ -63,7 +63,7 @@ def fetch_pricing():
     print(f"{Sp.OKGREEN}!! ------------------------ !!{Sp.END}")
 
 
-@cli.command("fetch-tlds", help="Fetch the list of available TLDs and write them to known_extensions.txt.")
+@cli.command("fetch-tlds", help="Fetch the list of available TLDs and write them to extensions_known.txt.")
 def fetch_tlds():
     print(f"{Sp.OKGREEN}!! ------------------------ !!{Sp.END}")
     print(f"{Sp.OKGREEN}!! BROWSER IS ABOUT TO LOAD !!{Sp.END}")
