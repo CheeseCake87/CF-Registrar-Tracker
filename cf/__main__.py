@@ -82,13 +82,11 @@ def update_readme():
     jsond = json.loads(latest_json_raw)
 
     # Split README into sections
-    split_cheapest = readme_raw.split("## Top 10 Cheapest Domain Extensions")
-    split_expensive = split_cheapest[1].split("## Top 10 Most Expensive Domain Extensions")
-    split_data_table = split_expensive[1].split("## Data Table")
+    split_cheapest = readme_raw.split("## Top 20 Cheapest Domain Extensions")
 
     # Sort domains by registration price for cheapest (excluding unavailable)
     available_domains = [(k, v) for k, v in jsond.items() if v['price'] > 0]
-    sorted_cheapest = sorted(available_domains, key=lambda x: x[1]['price'])[:10]
+    sorted_cheapest = sorted(available_domains, key=lambda x: x[1]['price'])[:20]
 
     # Create cheapest table
     cheapest_lines = f"Updated: {datetime.now().strftime('%Y-%m-%d')}\n\n"
@@ -101,7 +99,7 @@ def update_readme():
         cheapest_lines += f"| {key} | {registration} | {renewal} |\n"
 
     # Sort domains by registration price for most expensive (excluding unavailable)
-    sorted_expensive = sorted(available_domains, key=lambda x: x[1]['price'], reverse=True)[:10]
+    sorted_expensive = sorted(available_domains, key=lambda x: x[1]['price'], reverse=True)[:20]
 
     # Create most expensive table
     expensive_lines = f"Updated: {datetime.now().strftime('%Y-%m-%d')}\n\n"
@@ -113,10 +111,12 @@ def update_readme():
         renewal = f"{d_renewal} USD" if d_renewal > 0 else 'UNAVAILABLE'
         expensive_lines += f"| {key} | {registration} | {renewal} |\n"
 
+    sorted_cheapest_full = sorted(available_domains, key=lambda x: x[1]['price'])
+
     # Create full data table
     data_lines = f"Updated: {datetime.now().strftime('%Y-%m-%d')}\n\n"
     data_lines += "| Domain Extension | Registration | Renewal |\n| --- | --- | --- |\n"
-    for key, value in jsond.items():
+    for key, value in sorted_cheapest_full:
         d_price = convert_int_to_decimal(value['price'])
         d_renewal = convert_int_to_decimal(value['renewal'])
         registration = f"{d_price} USD" if d_price > 0 else 'UNAVAILABLE'
@@ -128,9 +128,9 @@ def update_readme():
         split_cheapest[0].rstrip("\n"),
         "\n\n## Top 20 Cheapest Domain Extensions\n\n",
         cheapest_lines,
-        "\n\n## Top 10 Most Expensive Domain Extensions\n\n",
+        "\n\n## Top 20 Most Expensive Domain Extensions\n\n",
         expensive_lines,
-        "\n\n## Data Table\n\n",
+        "\n\n## Data Table (cheapest first)\n\n",
         data_lines
     ]
 
