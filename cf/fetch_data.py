@@ -20,6 +20,49 @@ def _get_content(content):
     return soup.find("div", {"data-testid": "domain-exact-match-availability"})
 
 
+def _get_tlds_results(content):
+    soup = BeautifulSoup(content, "html.parser")
+    return soup.find("div", {"data-testid": "tlds-results"})
+
+
+async def _loop_to_find_tlds(
+        page: Coroutine[Any, Any, Tab] | Tab,
+        tries: int = 0,
+) -> BeautifulSoup | None:
+
+    tries += 1
+
+    if tries > 15:
+        return None
+
+    content = await page.get_content()
+
+    if try_ := _get_tlds_results(content):
+        return try_
+
+    sleep(1)
+
+    return await _loop_to_find_tlds(page, tries)
+
+
+async def tlds_processor():
+    browser = await uc.start()
+    page = await browser.get("https://domains.cloudflare.com/tlds")
+
+    tlds_div = await _loop_to_find_tlds(page)
+
+    if tlds_div is None:
+        raise RuntimeError("Could not locate tlds-results element")
+
+    tlds = set()
+    for text in tlds_div.stripped_strings:
+        tlds.add(f".{text}")
+
+    sorted_tlds = sorted(tlds)
+
+    KNOWN_EXTENSIONS_FILE.write_text("\n".join(sorted_tlds) + "\n")
+
+
 async def _loop_to_find_price(
         page: Coroutine[Any, Any, Tab] | Tab,
         tries: int = 0,

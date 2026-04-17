@@ -12,6 +12,9 @@ dependencies = [
 
 [tool.pyqwe]
 test = "*:echo hello"
+fetch-tlds = "*:uv run -m cf fetch-tlds"
+fetch-pricing = "*:uv run -m cf cost"
+
 
 [dependency-groups]
 dev = [

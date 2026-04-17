@@ -1,3 +1,4 @@
+.ab.ca
 .ac
 .academy
 .accountant
@@ -18,6 +19,7 @@
 .band
 .bar
 .bargains
+.bc.ca
 .beer
 .bet
 .bid
@@ -34,6 +36,7 @@
 .build
 .builders
 .business
+.ca
 .cab
 .cafe
 .cam
@@ -50,6 +53,7 @@
 .cc
 .center
 .ceo
+.charity
 .chat
 .cheap
 .christmas
@@ -62,6 +66,7 @@
 .cloud
 .club
 .co
+.co.nz
 .co.uk
 .coach
 .codes
@@ -70,6 +75,7 @@
 .com
 .com.ai
 .com.co
+.com.mx
 .community
 .company
 .compare
@@ -157,8 +163,10 @@
 .game
 .games
 .garden
+.geek.nz
 .gifts
 .gives
+.giving
 .glass
 .global
 .gmbh
@@ -191,6 +199,7 @@
 .inc
 .industries
 .info
+.ing
 .ink
 .institute
 .insure
@@ -225,10 +234,12 @@
 .market
 .marketing
 .markets
+.mb.ca
 .mba
 .me
 .me.uk
 .media
+.meme
 .memorial
 .men
 .miami
@@ -240,10 +251,13 @@
 .mortgage
 .mov
 .movie
+.mx
 .navy
+.nb.ca
 .net
 .net.ai
 .net.co
+.net.nz
 .net.uk
 .network
 .new
@@ -251,19 +265,28 @@
 .nexus
 .ngo
 .ninja
+.nl.ca
 .nom.co
+.ns.ca
+.nt.ca
+.nu.ca
+.nz
 .observer
 .off.ai
+.on.ca
 .ong
 .online
 .org
 .org.ai
+.org.mx
+.org.nz
 .org.uk
 .organic
 .page
 .partners
 .parts
 .party
+.pe.ca
 .pet
 .phd
 .photography
@@ -284,6 +307,7 @@
 .properties
 .protection
 .pub
+.qc.ca
 .racing
 .realty
 .recipes
@@ -322,6 +346,7 @@
 .show
 .singles
 .site
+.sk.ca
 .ski
 .soccer
 .social
@@ -354,6 +379,7 @@
 .tires
 .today
 .tools
+.toronto.on.ca
 .tours
 .town
 .toys
@@ -390,5 +416,7 @@
 .wtf
 .xxx
 .xyz
+.yk.ca
 .yoga
+.yt.ca
 .zone
