@@ -6,34 +6,6 @@
 
 📋 [Data Table (cheapest first)](#data-table-cheapest-first)
 
-## Top 20 Cheapest Domain Extensions
-
-Updated: 2026-04-17
-
-| Domain Extension | Registration | Renewal |
-| --- | --- | --- |
-| .bid | 4.18 USD | 5.18 USD |
-| .date | 4.18 USD | 5.18 USD |
-| .download | 4.18 USD | 5.18 USD |
-| .loan | 4.18 USD | 5.18 USD |
-| .men | 4.18 USD | 5.18 USD |
-| .party | 4.18 USD | 5.18 USD |
-| .stream | 4.18 USD | 5.18 USD |
-| .trade | 4.18 USD | 5.18 USD |
-| .win | 4.18 USD | 5.18 USD |
-| .fyi | 5.2 USD | 5.2 USD |
-| .gripe | 5.2 USD | 5.2 USD |
-| .sarl | 5.2 USD | 5.2 USD |
-| .co.uk | 5.21 USD | 5.21 USD |
-| .me.uk | 5.21 USD | 5.21 USD |
-| .org.uk | 5.21 USD | 5.21 USD |
-| .uk | 5.21 USD | 5.21 USD |
-| .us | 6.5 USD | 6.5 USD |
-| .link | 7.2 USD | 7.2 USD |
-| .rodeo | 7.2 USD | 7.2 USD |
-| .work | 7.2 USD | 7.2 USD |
-
-
 ## Top 20 Most Expensive Domain Extensions
 
 Updated: 2026-04-17

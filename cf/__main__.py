@@ -82,21 +82,10 @@ def update_readme():
     jsond = json.loads(latest_json_raw)
 
     # Split README into sections
-    split_cheapest = readme_raw.split("## Top 20 Cheapest Domain Extensions")
+    split_cheapest = readme_raw.split("## Top 20 Most Expensive Domain Extensions")
 
     # Sort domains by registration price for cheapest (excluding unavailable)
     available_domains = [(k, v) for k, v in jsond.items() if v['price'] > 0]
-    sorted_cheapest = sorted(available_domains, key=lambda x: x[1]['price'])[:20]
-
-    # Create cheapest table
-    cheapest_lines = f"Updated: {datetime.now().strftime('%Y-%m-%d')}\n\n"
-    cheapest_lines += "| Domain Extension | Registration | Renewal |\n| --- | --- | --- |\n"
-    for key, value in sorted_cheapest:
-        d_price = convert_int_to_decimal(value['price'])
-        d_renewal = convert_int_to_decimal(value['renewal'])
-        registration = f"{d_price} USD"
-        renewal = f"{d_renewal} USD" if d_renewal > 0 else 'UNAVAILABLE'
-        cheapest_lines += f"| {key} | {registration} | {renewal} |\n"
 
     # Sort domains by registration price for most expensive (excluding unavailable)
     sorted_expensive = sorted(available_domains, key=lambda x: x[1]['price'], reverse=True)[:20]
@@ -126,8 +115,6 @@ def update_readme():
     # Reconstruct README with all sections
     new_lines = [
         split_cheapest[0].rstrip("\n"),
-        "\n\n## Top 20 Cheapest Domain Extensions\n\n",
-        cheapest_lines,
         "\n\n## Top 20 Most Expensive Domain Extensions\n\n",
         expensive_lines,
         "\n\n## Data Table (cheapest first)\n\n",
