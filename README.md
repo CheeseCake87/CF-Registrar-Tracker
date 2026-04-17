@@ -1,11 +1,5 @@
 # Cloudflare Registrar Price Tracker (USD) 📋
 
-💵 [Top 20 Cheapest Domain Extensions](#top-20-cheapest-domain-extensions)
-
-💰 [Top 20 Most Expensive Domain Extensions](#top-20-most-expensive-domain-extensions)
-
-📋 [Data Table (cheapest first)](#data-table-cheapest-first)
-
 ## Top 20 Most Expensive Domain Extensions
 
 Updated: 2026-04-17
