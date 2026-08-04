@@ -95,10 +95,6 @@
         "price": 2020,
         "renewal": 2020
     },
-    ".bid": {
-        "price": 418518518,
-        "renewal": 518
-    },
     ".bike": {
         "price": 3020,
         "renewal": 3020
@@ -267,10 +263,6 @@
         "price": 1520,
         "renewal": 1520
     },
-    ".co": {
-        "price": 150030003000,
-        "renewal": 3000
-    },
     ".co.nz": {
         "price": 1560,
         "renewal": 1560
@@ -383,10 +375,6 @@
         "price": 2120,
         "renewal": 2120
     },
-    ".date": {
-        "price": 418518518,
-        "renewal": 518
-    },
     ".dating": {
         "price": 5020,
         "renewal": 5020
@@ -466,10 +454,6 @@
     ".domains": {
         "price": 3320,
         "renewal": 3320
-    },
-    ".download": {
-        "price": 418518518,
-        "renewal": 518
     },
     ".education": {
         "price": 2720,
@@ -899,10 +883,6 @@
         "price": 2520,
         "renewal": 2520
     },
-    ".loan": {
-        "price": 418518518,
-        "renewal": 518
-    },
     ".loans": {
         "price": 9020,
         "renewal": 9020
@@ -970,10 +950,6 @@
     ".memorial": {
         "price": 4020,
         "renewal": 4020
-    },
-    ".men": {
-        "price": 418518518,
-        "renewal": 518
     },
     ".miami": {
         "price": 1820,
@@ -1111,10 +1087,6 @@
         "price": 2770,
         "renewal": 2770
     },
-    ".org": {
-        "price": 85011201120,
-        "renewal": 1120
-    },
     ".org.ai": {
         "price": 8000,
         "renewal": 8000
@@ -1146,10 +1118,6 @@
     ".parts": {
         "price": 3220,
         "renewal": 3220
-    },
-    ".party": {
-        "price": 418518518,
-        "renewal": 518
     },
     ".pe.ca": {
         "price": 0,
@@ -1435,10 +1403,6 @@
         "price": 4220,
         "renewal": 4220
     },
-    ".stream": {
-        "price": 418518518,
-        "renewal": 518
-    },
     ".studio": {
         "price": 3120,
         "renewal": 3120
@@ -1539,10 +1503,6 @@
         "price": 5020,
         "renewal": 5020
     },
-    ".trade": {
-        "price": 418518518,
-        "renewal": 518
-    },
     ".trading": {
         "price": 1620,
         "renewal": 1620
@@ -1640,7 +1600,7 @@
         "renewal": 2520
     },
     ".win": {
-        "price": 418518518,
+        "price": 418,
         "renewal": 518
     },
     ".wine": {
@@ -1686,5 +1646,45 @@
     ".zone": {
         "price": 3020,
         "renewal": 3020
+    },
+    ".bid": {
+        "price": 418,
+        "renewal": 518
+    },
+    ".co": {
+        "price": 1500,
+        "renewal": 3000
+    },
+    ".date": {
+        "price": 418,
+        "renewal": 518
+    },
+    ".download": {
+        "price": 418,
+        "renewal": 518
+    },
+    ".loan": {
+        "price": 418,
+        "renewal": 518
+    },
+    ".men": {
+        "price": 418,
+        "renewal": 518
+    },
+    ".org": {
+        "price": 850,
+        "renewal": 1120
+    },
+    ".party": {
+        "price": 418,
+        "renewal": 518
+    },
+    ".stream": {
+        "price": 418,
+        "renewal": 518
+    },
+    ".trade": {
+        "price": 418,
+        "renewal": 518
     }
 }

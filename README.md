@@ -10,17 +10,6 @@ Updated: 2026-08-04
 
 | Domain Extension | Registration | Renewal |
 | --- | --- | --- |
-| .co | 1500300030.0 USD | 30.0 USD |
-| .org | 850112011.2 USD | 11.2 USD |
-| .bid | 4185185.18 USD | 5.18 USD |
-| .date | 4185185.18 USD | 5.18 USD |
-| .download | 4185185.18 USD | 5.18 USD |
-| .loan | 4185185.18 USD | 5.18 USD |
-| .men | 4185185.18 USD | 5.18 USD |
-| .party | 4185185.18 USD | 5.18 USD |
-| .stream | 4185185.18 USD | 5.18 USD |
-| .trade | 4185185.18 USD | 5.18 USD |
-| .win | 4185185.18 USD | 5.18 USD |
 | .dealer | 2000.2 USD | 2000.2 USD |
 | .inc | 2000.2 USD | 2000.2 USD |
 | .protection | 2000.2 USD | 2000.2 USD |
@@ -30,6 +19,17 @@ Updated: 2026-08-04
 | .new | 400.2 USD | 400.2 USD |
 | .feedback | 300.2 USD | 300.2 USD |
 | .game | 300.2 USD | 300.2 USD |
+| .hosting | 300.2 USD | 300.2 USD |
+| .realty | 280.2 USD | 280.2 USD |
+| .movie | 270.2 USD | 270.2 USD |
+| .casino | 125.2 USD | 125.2 USD |
+| .creditcard | 125.2 USD | 125.2 USD |
+| .travel | 115.2 USD | 115.2 USD |
+| .audio | 100.2 USD | 100.2 USD |
+| .diet | 100.2 USD | 100.2 USD |
+| .guitars | 100.2 USD | 100.2 USD |
+| .investments | 100.2 USD | 100.2 USD |
+| .flowers | 100.0 USD | 100.0 USD |
 
 
 ## Data Table (cheapest first)
@@ -38,6 +38,15 @@ Updated: 2026-08-04
 
 | Domain Extension | Registration | Renewal |
 | --- | --- | --- |
+| .win | 4.18 USD | 5.18 USD |
+| .bid | 4.18 USD | 5.18 USD |
+| .date | 4.18 USD | 5.18 USD |
+| .download | 4.18 USD | 5.18 USD |
+| .loan | 4.18 USD | 5.18 USD |
+| .men | 4.18 USD | 5.18 USD |
+| .party | 4.18 USD | 5.18 USD |
+| .stream | 4.18 USD | 5.18 USD |
+| .trade | 4.18 USD | 5.18 USD |
 | .fyi | 5.2 USD | 5.2 USD |
 | .gripe | 5.2 USD | 5.2 USD |
 | .sarl | 5.2 USD | 5.2 USD |
@@ -49,6 +58,7 @@ Updated: 2026-08-04
 | .link | 7.2 USD | 7.2 USD |
 | .cc | 8.0 USD | 8.0 USD |
 | .fans | 8.2 USD | 8.2 USD |
+| .org | 8.5 USD | 11.2 USD |
 | .observer | 9.2 USD | 9.2 USD |
 | .faith | 10.18 USD | 10.18 USD |
 | .racing | 10.18 USD | 10.18 USD |
@@ -81,6 +91,7 @@ Updated: 2026-08-04
 | .com.co | 15.0 USD | 15.0 USD |
 | .net.co | 15.0 USD | 15.0 USD |
 | .nom.co | 15.0 USD | 15.0 USD |
+| .co | 15.0 USD | 30.0 USD |
 | .org.mx | 15.15 USD | 15.15 USD |
 | .business | 15.2 USD | 15.2 USD |
 | .club | 15.2 USD | 15.2 USD |
@@ -430,14 +441,3 @@ Updated: 2026-08-04
 | .inc | 2000.2 USD | 2000.2 USD |
 | .protection | 2000.2 USD | 2000.2 USD |
 | .security | 2000.2 USD | 2000.2 USD |
-| .bid | 4185185.18 USD | 5.18 USD |
-| .date | 4185185.18 USD | 5.18 USD |
-| .download | 4185185.18 USD | 5.18 USD |
-| .loan | 4185185.18 USD | 5.18 USD |
-| .men | 4185185.18 USD | 5.18 USD |
-| .party | 4185185.18 USD | 5.18 USD |
-| .stream | 4185185.18 USD | 5.18 USD |
-| .trade | 4185185.18 USD | 5.18 USD |
-| .win | 4185185.18 USD | 5.18 USD |
-| .org | 850112011.2 USD | 11.2 USD |
-| .co | 1500300030.0 USD | 30.0 USD |
