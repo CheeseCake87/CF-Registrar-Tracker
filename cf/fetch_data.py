@@ -1,7 +1,7 @@
 import json
 from datetime import datetime
 from time import sleep
-from typing import Any, Callable, Coroutine
+from typing import Any, Coroutine
 
 import nodriver as uc
 from bs4 import BeautifulSoup
