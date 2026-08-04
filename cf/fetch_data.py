@@ -1,19 +1,17 @@
 import json
 from datetime import datetime
 from time import sleep
-from typing import Callable, Any, Coroutine
+from typing import Any, Callable, Coroutine
 
 import nodriver as uc
 from bs4 import BeautifulSoup
 from nodriver.core.tab import Tab
 
-from . import KNOWN_EXTENSIONS_FILE, TEMP_FILE, LATEST_JSON_FILE, CWD
-from .utils import convert_int_to_decimal
-from .utils import convert_to_int
-from .utils import generate_domain
-
+from . import CWD, KNOWN_EXTENSIONS_FILE, LATEST_JSON_FILE, TEMP_FILE
+from .utils import convert_int_to_decimal, convert_to_int, generate_domain
 
 CONTENT_TRIES = 0
+
 
 def _get_content(content):
     soup = BeautifulSoup(content, "html.parser")
@@ -26,10 +24,9 @@ def _get_tlds_results(content):
 
 
 async def _loop_to_find_tlds(
-        page: Coroutine[Any, Any, Tab] | Tab,
-        tries: int = 0,
+    page: Coroutine[Any, Any, Tab] | Tab,
+    tries: int = 0,
 ) -> BeautifulSoup | None:
-
     tries += 1
 
     if tries > 15:
@@ -64,10 +61,9 @@ async def tlds_processor():
 
 
 async def _loop_to_find_price(
-        page: Coroutine[Any, Any, Tab] | Tab,
-        tries: int = 0,
+    page: Coroutine[Any, Any, Tab] | Tab,
+    tries: int = 0,
 ) -> BeautifulSoup | Coroutine[Any, Any, BeautifulSoup | None] | dict:
-
     tries += 1
 
     if tries > 15:
@@ -100,6 +96,8 @@ async def processor():
             # skip if already fetched
             continue
 
+        temp_data[extension] = {}
+
         page = await browser.get(
             f"https://domains.cloudflare.com/?domain={generate_domain()}{extension}"
         )
@@ -111,7 +109,7 @@ async def processor():
             continue
 
         price = pricing.find(
-            "span", {"class": "block text-lg font-semibold md:text-xl"}
+            "span", {"data-testid": "promo-price", "class": "text-lg md:text-xl"}
         )
         renewal = pricing.find(
             "span", {"class": "block whitespace-nowrap text-xs text-gray-500"}
@@ -124,10 +122,15 @@ async def processor():
             }
             continue
 
-        temp_data[extension] = {
-            "price": convert_to_int(price.text),
-            "renewal": convert_to_int(renewal.text),
-        }
+        if hasattr(price, "text"):
+            temp_data[extension]["price"] = convert_to_int(price.text)
+        else:
+            temp_data[extension]["price"] = 0
+
+        if hasattr(renewal, "text"):
+            temp_data[extension]["renewal"] = convert_to_int(renewal.text)
+        else:
+            temp_data[extension]["renewal"] = 0
 
         TEMP_FILE.write_text(json.dumps(temp_data, indent=4))
 
